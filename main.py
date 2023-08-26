@@ -26,4 +26,4 @@ if _1st_sem >=1 and _1st_sem <=4 :
                             if _8th_sem >= 1 and _8th_sem <= 4:
                                 result += _8th_sem * 15 / 100 #taking 15% of 8th semester
                                 print("%.2f" % result)
-else:print('fuck u')
+else:print('Ivalid Result')
